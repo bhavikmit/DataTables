@@ -5,3 +5,7 @@ cdn
 media/css/jquery.dataTables_themeroller.min.css
 .DS_Store
 Plugins
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
